@@ -1,0 +1,22 @@
+# Core AI and ML libraries
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+torchvision
+matplotlib
+seaborn
+
+# NLP
+spacy
+textblob
+
+# Utilities
+jupyter
+notebook
+streamlit
+flask
+
+# Fairness & Evaluation
+fairlearn
